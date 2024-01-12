@@ -1,4 +1,4 @@
-# Práctica 1 - Lista de Tareas - Parte 1
+# Práctica 1 - Lista de Tareas - PARTE 1
 
 ## Desarrollo de una app móvil en Kotlin (Android Studio) para gestionar una lista de tareas
 
