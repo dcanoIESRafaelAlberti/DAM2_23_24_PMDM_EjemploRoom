@@ -20,7 +20,8 @@ El objetivo de la parte 2 es adaptar completamente dicha aplicación utilizando 
 
 ### Parte 1:
 
+[Desarrollo de la PARTE 1 de la práctica](practica1_parte1.md)
 
 ### Parte 2:
 
-
+[Desarrollo de la PARTE 2 de la práctica](practica1_parte2.md)
